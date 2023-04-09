@@ -1,4 +1,5 @@
-# Optimal_codes
+This project is an implementation of the following work "A Hierarchical Route Guidance Framework for Off-Road Connected Vehicles."
+
 ME822_project: Hierarchical Path Planner for Off-road Vehicles
 
 The attached matlab script 'hierarchical_planner_code_final.mlx' contains the implementation for the hierarchical path planner.
